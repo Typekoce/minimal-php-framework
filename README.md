@@ -1,6 +1,6 @@
 ### READ ME ###
 
-## Visionnaries PHP Framework ##
+## Visionnaries PHP Framework / WordPress Plugin ##
 
 * Based on https://www.codecourse.com/lessons *
 
